@@ -5,11 +5,9 @@
    Tutorial 13
    Case Problem 1
 
-   Author: 
+   Author: Caleb Snow
    Date:   
    
    Filename: mpl_links.js
 
 */
-
-
